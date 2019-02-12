@@ -1,6 +1,9 @@
+.rts2_cache_*
+
 node_modules
 build
 test
+dist
 src/**.js
 .idea/*
 

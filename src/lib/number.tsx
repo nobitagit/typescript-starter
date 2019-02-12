@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-export const Elem = () => <div>
+export const Elem = () => <div>ok</div>
 /**
  * Multiplies a value by 2. (Also a full example of Typedoc's functionality.)
  *
