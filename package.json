@@ -92,6 +92,9 @@
   },
   "devDependencies": {
     "@bitjson/npm-scripts-info": "^1.0.0",
+    "@types/jest": "^24.0.1",
+    "@types/react": "^16.8.2",
+    "@types/react-dom": "^16.8.0",
     "@types/del": "^3.0.1",
     "@types/execa": "^0.9.0",
     "@types/inquirer": "0.0.43",
